@@ -6,8 +6,10 @@ This repository is a collection of awesome things about federated domain general
 
 Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2306.01334)]
 
-# Centralized FedDG
+## Centralized FedDG
 
-# Decentralized FedDG
+## Decentralized FedDG
+
+### 2024
 
 Decentralized federated domain generalization with cluster alignment for fault diagnosis (**IFAC Control Engineering Practice 2024**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0967066124001114)]
