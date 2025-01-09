@@ -24,3 +24,5 @@ FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodi
 ### 2024
 
 Decentralized federated domain generalization with cluster alignment for fault diagnosis (**IFAC Control Engineering Practice 2024**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0967066124001114)]
+
+Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2405.11525)]
