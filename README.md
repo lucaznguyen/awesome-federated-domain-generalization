@@ -18,6 +18,10 @@ Federated Domain Generalization for Image Recognition via Cross-Client Style Tra
 
 FedCLIP: Fast generalization and personalization for clip in federated learning (**ICLR2023**) [[paper](https://openreview.net/pdf?id=wgO-OK0_CQ)]
 
+Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships (**PMLR2023**) [[paper](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf)] [[code](https://github.com/YamingGuo98/FedIIR)]
+
+Federated Domain Generalization with Generalization Adjustment (**CVPR2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
+
 ### 2022
 
 FedSR: A Simple and Effective Domain GeneralizationMethod for Federated Learning (**NeurIPS2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fd946a6c99541fddc3d64a3ea39a1bc2-Paper-Conference.pdf)] [[code](https://github.com/atuannguyen/FedSR)]
