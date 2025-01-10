@@ -10,31 +10,31 @@ Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arx
 
 ### 2024
 
-PLAN: Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
+PLAN: Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
 
-DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.pdf)]
+DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.pdf)]
 
-Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)] [[code](https://github.com/lhkhiem28/gPerXAN)]
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)] [[code](https://github.com/lhkhiem28/gPerXAN)]
 
 ### 2023
 
-Gradient Masked Averaging for Federated Learning (**TMLR2023**) [[paper](https://openreview.net/forum?id=REAyrhRYAo)]
+Gradient Masked Averaging for Federated Learning (**TMLR 2023**) [[paper](https://openreview.net/forum?id=REAyrhRYAo)]
 
-Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.pdf)] [[code](https://github.com/JeremyCJM/CCST)]
+Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.pdf)] [[code](https://github.com/JeremyCJM/CCST)]
 
-FedCLIP: Fast generalization and personalization for clip in federated learning (**ICLR2023**) [[paper](https://openreview.net/pdf?id=wgO-OK0_CQ)]
+FedCLIP: Fast generalization and personalization for clip in federated learning (**ICLR 2023**) [[paper](https://openreview.net/pdf?id=wgO-OK0_CQ)]
 
-Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships (**PMLR2023**) [[paper](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf)] [[code](https://github.com/YamingGuo98/FedIIR)]
+Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships (**PMLR 2023**) [[paper](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf)] [[code](https://github.com/YamingGuo98/FedIIR)]
 
-Federated Domain Generalization with Generalization Adjustment (**CVPR2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
+Federated Domain Generalization with Generalization Adjustment (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
 
 ### 2022
 
-FedSR: A Simple and Effective Domain GeneralizationMethod for Federated Learning (**NeurIPS2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fd946a6c99541fddc3d64a3ea39a1bc2-Paper-Conference.pdf)] [[code](https://github.com/atuannguyen/FedSR)]
+FedSR: A Simple and Effective Domain GeneralizationMethod for Federated Learning (**NeurIPS 2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fd946a6c99541fddc3d64a3ea39a1bc2-Paper-Conference.pdf)] [[code](https://github.com/atuannguyen/FedSR)]
 
-FL Games: A federated learning framework for distribution shifts (**FL-NeurIPS2022**) [[paper](https://arxiv.org/pdf/2205.11101)] 
+FL Games: A federated learning framework for distribution shifts (**FL-NeurIPS 2022**) [[paper](https://arxiv.org/pdf/2205.11101)] 
 
-Feature Distribution Matching for Federated DomainGeneralization (**ACML2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
+Feature Distribution Matching for Federated DomainGeneralization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
 
 ### 2021
 
