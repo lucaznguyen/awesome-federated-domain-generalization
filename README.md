@@ -10,6 +10,12 @@ Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arx
 
 ### 2024
 
+PLAN: Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
+
+DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.pdf)]
+
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)] [[code](https://github.com/lhkhiem28/gPerXAN)]
+
 ### 2023
 
 Gradient Masked Averaging for Federated Learning (**TMLR2023**) [[paper](https://openreview.net/forum?id=REAyrhRYAo)]
