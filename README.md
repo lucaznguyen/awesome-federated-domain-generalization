@@ -36,6 +36,10 @@ FL Games: A federated learning framework for distribution shifts (**FL-NeurIPS 2
 
 Feature Distribution Matching for Federated DomainGeneralization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
 
+Generalized Federated Learning via Sharpness Aware Minimization (**PMLR 2022**) [[paper](https://proceedings.mlr.press/v162/qu22a/qu22a.pdf)]
+
+Improving Generalization in Federated Learning by Seeking Flat Minima (**ECCV 2022**) [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636.pdf)] [[code](https://github.com/debcaldarola/fedsam)]
+
 ### 2021
 
 FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.pdf)] [[code](https://github.com/liuquande/FedDG-ELCFS)]
