@@ -25,7 +25,7 @@ OOD Machine Learning: Detection, Robustness, and Generalization [[github](https:
 
 DomainBed [[github](https://github.com/facebookresearch/DomainBed)]
 
-Federated Domain Generalization Benchmark [[github](https://github.com/inouye-lab/FedDG_Benchmark)]
+Federated Domain Generalization Benchmark [[paper](https://openreview.net/forum?id=wprSv7ichW)][[github](https://github.com/inouye-lab/FedDG_Benchmark)]
 
 ## Survey
 
