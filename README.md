@@ -89,15 +89,25 @@ Non-linear Fusion in Federated Learning: A Hypernetwork Approach to Federated Do
 
 ### 2023
 
-Gradient Masked Averaging for Federated Learning (**TMLR 2023**) [[paper](https://openreview.net/forum?id=REAyrhRYAo)]
+Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)]
 
-Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.pdf)] [[code](https://github.com/JeremyCJM/CCST)]
+StableFDG: Style and Attention Based Learning for Federated Domain Generalization (**NeurIPS/arXiv 2023**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dae8bdacd265399b193e6b43d44a80f0-Paper-Conference.pdf)]
 
-FedCLIP: Fast generalization and personalization for clip in federated learning (**ICLR 2023**) [[paper](https://openreview.net/pdf?id=wgO-OK0_CQ)]
+Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models (**Sci Rep/arXiv 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)]
 
-Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships (**PMLR 2023**) [[paper](https://proceedings.mlr.press/v202/guo23b/guo23b.pdf)] [[code](https://github.com/YamingGuo98/FedIIR)]
+Benchmarking Algorithms for Federated Domain Generalization (**arXiv/ICLR Submission 2023**) [[paper](https://arxiv.org/abs/2307.05238)]
 
-Federated Domain Generalization with Generalization Adjustment (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.pdf)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
+MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2306.16747)]
+
+Federated Domain Generalization: A Survey (**arXiv 2023**) [[paper](https://arxiv.org/abs/2306.01334)]
+
+Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization (**IEEE TKDE 2023**) [[paper](https://doi.org/10.1109/TKDE.2023.3273882)]
+
+Domain Generalization for Foreground Segmentation Using Federated Learning (**ISVC 2023**) [[paper](https://doi.org/10.1007/978-3-031-47969-4_20)]
+
+Federated Condition Generalization on Low-dose CT Reconstruction via Cross-domain Learning (**MICCAI 2023**) [[paper](https://doi.org/10.1007/978-3-031-43898-1_5)]
+
+Federated Learning for IoT Devices With Domain Generalization (**IEEE Internet of Things Journal 2023**) [[paper](https://doi.org/10.1109/JIOT.2022.3173489)]
 
 ### 2022
 
