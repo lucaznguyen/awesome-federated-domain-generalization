@@ -2,11 +2,29 @@
 
 This repository is a collection of awesome things about federated domain generalization, including papers, code, etc.
 
+## What is Federated Domain Generalization?
+
+Federated Learning (FL) enables collaborative model training on decentralized data residing on client devices (e.g., hospitals, mobile phones) without sharing the raw data, thus preserving privacy. Domain Generalization (DG) focuses on training a model from multiple observed source domains such that it generalizes effectively to unseen target domains, addressing the challenge of domain shift. **Federated Domain Generalization (FedDG)** combines these paradigms. It tackles the problem of learning a *generalizable* model across decentralized clients, where each client (or group of clients) may represent a distinct *domain*. The goal is to train a model under federated constraints (privacy, communication bottlenecks, systems heterogeneity) that performs well not only on participating client domains but critically, on *new, unseen domains* (and potentially unseen clients) encountered after deployment.
+
+**Key Challenges & Differences:**
+* **Compared to Standard FL:** FedDG explicitly addresses the *domain shift* aspect present across clients and aims for generalization to *entirely unseen domains*, going beyond typical non-IID settings in FL that often focus on statistical heterogeneity within a common task space.
+* **Compared to Standard DG:** FedDG operates under the constraints of FL – data is decentralized, cannot be pooled, and communication is often limited. Centralized DG algorithms are often not directly applicable.
+* **Compared to Federated Domain Adaptation (FedDA):** FedDA usually assumes the target domain(s) are known during the adaptation phase, and sometimes unlabeled (or even limited labeled) target data is available. FDG aims for generalization *without* access to target domain data during training.
+
+FedDG is crucial for applications where models are deployed in diverse environments unseen during training, such as medical diagnosis across different hospitals/scanners, autonomous driving in varying weather/locations, and financial modeling across disparate markets.
+
+## Other Awesome Related Repos
+
+Awesome Federated Machine Learning [[github](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
+Awesome Domain Generalization [[github](https://github.com/junkunyuan/Awesome-Domain-Generalization)]
+OOD Machine Learning: Detection, Robustness, and Generalization [[github](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)]
+
 ## Survey
 
 Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2306.01334)]
+Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark (**TPAMI 2024**) [[paper](https://arxiv.org/abs/2311.06750)]
 
-## Centralized FedDG
+## Papers
 
 ### 2024
 
@@ -15,6 +33,10 @@ PLAN: Federated Domain Generalization via Prompt Learning and Aggregation (**arX
 DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.pdf)]
 
 Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)] [[code](https://github.com/lhkhiem28/gPerXAN)]
+
+Decentralized federated domain generalization with cluster alignment for fault diagnosis (**IFAC Control Engineering Practice 2024**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0967066124001114)]
+
+Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2405.11525)] [[code](https://github.com/ubc-tea/DESA)]
 
 ### 2023
 
@@ -47,11 +69,3 @@ FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodi
 Collaborative optimization and aggregation for decentralized domain generalization and adaptation (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Collaborative_Optimization_and_Aggregation_for_Decentralized_Domain_Generalization_and_Adaptation_ICCV_2021_paper.pdf)]
 
 Federated learning with domain generalization (**arXiv 2021**) [[paper](https://arxiv.org/pdf/2111.10487)] [[code](https://github.com/Haoxiang-Wang/FedADG)]
-
-## Decentralized FedDG
-
-### 2024
-
-Decentralized federated domain generalization with cluster alignment for fault diagnosis (**IFAC Control Engineering Practice 2024**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0967066124001114)]
-
-Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2405.11525)] [[code](https://github.com/ubc-tea/DESA)]
