@@ -16,12 +16,15 @@ FedDG is crucial for applications where models are deployed in diverse environme
 ## Other Awesome Related Repos
 
 Awesome Federated Machine Learning [[github](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)]
+
 Awesome Domain Generalization [[github](https://github.com/junkunyuan/Awesome-Domain-Generalization)]
+
 OOD Machine Learning: Detection, Robustness, and Generalization [[github](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)]
 
 ## Survey
 
 Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2306.01334)]
+
 Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark (**TPAMI 2024**) [[paper](https://arxiv.org/abs/2311.06750)]
 
 ## Papers
