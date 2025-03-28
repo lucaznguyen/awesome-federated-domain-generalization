@@ -86,7 +86,7 @@ DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization i
 
 Hypernetwork-Driven Model Fusion for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2402.06974)]
 
-Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2401.10272)]
+Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization (**AIII 2024**) [[paper](https://doi.org/10.1609/aaai.v38i14.29510)]
 
 Bilateral Proxy Federated Domain Generalization for Privacy-preserving Medical Image Diagnosis (**IEEE J-BHI 2024**) [[paper](https://doi.org/10.1109/JBHI.2024.3456440)]
 
