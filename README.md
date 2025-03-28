@@ -21,6 +21,11 @@ Awesome Domain Generalization [[github](https://github.com/junkunyuan/Awesome-Do
 
 OOD Machine Learning: Detection, Robustness, and Generalization [[github](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection)]
 
+## Benchmarks
+
+DomainBed [[github](https://github.com/facebookresearch/DomainBed)]
+Federated Domain Generalization Benchmark [[github](https://github.com/inouye-lab/FedDG_Benchmark)]
+
 ## Survey
 
 Federated Domain Generalization: A Survey (**arXiv 2024**)  [[paper](https://arxiv.org/abs/2306.01334)]
