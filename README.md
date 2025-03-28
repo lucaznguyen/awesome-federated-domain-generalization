@@ -29,6 +29,20 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 
 ## Papers
 
+### 2025
+
+Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[paper](https://ieeexplore.ieee.org/document/10926881)]
+
+Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation [[paper](https://arxiv.org/abs/2502.07951)]
+
+FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment [[paper](https://arxiv.org/abs/2501.15486)]
+
+Federated Domain Generalization with Data-free On-server Gradient Matching [[paper](https://arxiv.org/abs/2501.14653)]
+
+Heterogeneous Federated Learning: Client-Side Collaborative Update Interdomain Generalization Method for Intelligent Fault Diagnosis [[paper](https://ieeexplore.ieee.org/document/10742072/)]
+
+A unified Personalized Federated Learning framework ensuring Domain Generalization [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025673?via%3Dihub)]
+
 ### 2024
 
 PLAN: Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
