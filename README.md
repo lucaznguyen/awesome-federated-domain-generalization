@@ -36,29 +36,31 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ## Papers
 
 ### 2025
-FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis [[paper](https://arxiv.org/abs/2501.13967)]
+FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.13967)]
 
-FedTG: Text-guided Federated Domain Generalization [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
+FedTG: Text-guided Federated Domain Generalization (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
 
-Frequency-based federated domain generalization for polyp segmentation [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)]
+Frequency-Based Federated Domain Generalization for Polyp Segmentation (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)]
 
-Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
+Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
 
-Fedpartwhole: federated domain generalization via consistent part-whole hierarchies [[paper](https://doi.org/10.1007/s10044-025-01439-4)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
+Fedpartwhole: federated domain generalization via consistent part-whole hierarchies (**PAA 2025**) [[paper](https://doi.org/10.1007/s10044-025-01439-4)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
 
-Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[paper](https://ieeexplore.ieee.org/document/10926881)]
+Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2025.3551339)]
 
-Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation [[paper](https://arxiv.org/abs/2502.07951)]
+Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.07951)]
 
-FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment [[paper](https://arxiv.org/abs/2501.15486)]
+FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.15486)]
 
-Federated Domain Generalization with Data-free On-server Gradient Matching [[paper](https://arxiv.org/abs/2501.14653)]
+Federated Domain Generalization with Data-free On-server Gradient Matching (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.14653)] [[code](https://github.com/skydvn/FedOMG)]
 
-Heterogeneous Federated Learning: Client-Side Collaborative Update Interdomain Generalization Method for Intelligent Fault Diagnosis [[paper](https://ieeexplore.ieee.org/document/10742072/)]
+Heterogeneous Federated Learning: Client-Side Collaborative Update Interdomain Generalization Method for Intelligent Fault Diagnosis (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2024.3489617)]
 
-A unified Personalized Federated Learning framework ensuring Domain Generalization [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025673?via%3Dihub)]
+A unified Personalized Federated Learning framework ensuring Domain Generalization (**Expert Systems with Applications 2025**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
 
 ### 2024
+
+Decentralized federated domain generalization with cluster alignment for fault diagnosis (**Control Engineering Practice 2024**) [[paper](https://doi.org/10.1016/j.conengprac.2024.105951)]
 
 A unified Personalized Federated Learning framework for improving performance on Non-IID data via domain generalization (**ESWA 2024**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
 
