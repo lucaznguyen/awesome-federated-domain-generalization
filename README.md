@@ -30,6 +30,15 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ## Papers
 
 ### 2025
+FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis [[paper](https://arxiv.org/abs/2501.13967)]
+
+FedTG: Text-guided Federated Domain Generalization[[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
+
+Frequency-based federated domain generalization for polyp segmentation [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)]
+
+Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
+
+Fedpartwhole: federated domain generalization via consistent part-whole hierarchies [[paper](https://doi.org/10.1007/s10044-025-01439-4)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
 
 Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation [[paper](https://ieeexplore.ieee.org/document/10926881)]
 
@@ -53,15 +62,11 @@ FISC: Federated Domain Generalization via Interpolative Style Transfer and Contr
 
 FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.11267)]
 
-Frequency-Based Federated Domain Generalization for Polyp Segmentation (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.02044)]
-
 FedGCA: Global Consistent Augmentation Based Single-Source Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.14671)]
 
 Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.13527)]
 
 Reducing Spurious Correlation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.19174)]
-
-FedPartWhole: Federated domain generalization via consistent part-whole hierarchies (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.14792)]
 
 Feature Diversification and Adaptation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.08245)]
 
