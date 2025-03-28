@@ -38,7 +38,7 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ### 2025
 FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis [[paper](https://arxiv.org/abs/2501.13967)]
 
-FedTG: Text-guided Federated Domain Generalization[[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
+FedTG: Text-guided Federated Domain Generalization [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
 
 Frequency-based federated domain generalization for polyp segmentation [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)]
 
