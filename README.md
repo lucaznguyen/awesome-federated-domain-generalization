@@ -36,103 +36,104 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ## Papers
 
 ### 2025
-FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.13967)]
-
-FedTG: Text-guided Federated Domain Generalization (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
-
-Frequency-Based Federated Domain Generalization for Polyp Segmentation (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)] [[code](https://github.com/nubagcilab/icassp2025-fdgpolyp)]
-
-Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
-
-Fedpartwhole: federated domain generalization via consistent part-whole hierarchies (**PAA 2025**) [[paper](https://doi.org/10.1007/s10044-025-01439-4)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
-
-Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2025.3551339)]
-
-Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.07951)]
-
-FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.15486)]
-
-Federated Domain Generalization with Data-free On-server Gradient Matching (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.14653)] [[code](https://github.com/skydvn/FedOMG)]
-
-Heterogeneous Federated Learning: Client-Side Collaborative Update Interdomain Generalization Method for Intelligent Fault Diagnosis (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2024.3489617)]
 
 A unified Personalized Federated Learning framework ensuring Domain Generalization (**Expert Systems with Applications 2025**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
 
+FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.15486)]
+
+FedDAG: Federated Domain Adversarial Generation Towards Generalizable Medical Image Analysis (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.13967)]
+
+Fedpartwhole: federated domain generalization via consistent part-whole hierarchies (**PAA 2025**) [[paper](https://doi.org/10.1007/s10044-025-01439-4)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
+
+FedTG: Text-guided Federated Domain Generalization (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
+
+Federated Domain Generalization for Fault Diagnosis: Cross-Client Style Integration and Dual Alignment Representation (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2025.3551339)]
+
+Federated Domain Generalization with Data-free On-server Gradient Matching (**arXiv 2025**) [[paper](https://arxiv.org/abs/2501.14653)] [[code](https://github.com/skydvn/FedOMG)]
+
+Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
+
+Federated Self-supervised Domain Generalization for Label-efficient Polyp Segmentation (**arXiv 2025**) [[paper](https://arxiv.org/abs/2502.07951)]
+
+Frequency-Based Federated Domain Generalization for Polyp Segmentation (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10889662)] [[code](https://github.com/nubagcilab/icassp2025-fdgpolyp)]
+
+Heterogeneous Federated Learning: Client-Side Collaborative Update Interdomain Generalization Method for Intelligent Fault Diagnosis (**IEEE IoT-J 2025**) [[paper](https://doi.org/10.1109/JIOT.2024.3489617)]
+
 ### 2024
-
-RFDG: Reinforcement Federated Domain Generalization (**TKED 2024**) [[paper](https://doi.org/10.1109/TKDE.2023.3301036)]
-
-Decentralized federated domain generalization with cluster alignment for fault diagnosis (**Control Engineering Practice 2024**) [[paper](https://doi.org/10.1016/j.conengprac.2024.105951)]
 
 A unified Personalized Federated Learning framework for improving performance on Non-IID data via domain generalization (**ESWA 2024**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
 
-Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
+Bilateral Proxy Federated Domain Generalization for Privacy-preserving Medical Image Diagnosis (**IEEE J-BHI 2024**) [[paper](https://doi.org/10.1109/JBHI.2024.3456440)]
 
-FISC: Federated Domain Generalization via Interpolative Style Transfer and Contrastive Learning (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.22622)]
+Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.13527)]
+
+Decentralized federated domain generalization with cluster alignment for fault diagnosis (**Control Engineering Practice 2024**) [[paper](https://doi.org/10.1016/j.conengprac.2024.105951)]
+
+DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.html)]
+
+Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html)] [[code](https://github.com/lhkhiem28/gPerXAN)]
+
+Feature Diversification and Adaptation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.08245)]
 
 FedCCRL: Federated Domain Generalization with Cross-Client Representation Learning (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.11267)] [[code](https://github.com/sanphouwang/fedccrl)]
 
 FedGCA: Global Consistent Augmentation Based Single-Source Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.14671)]
 
-Boosting Federated Domain Generalization: Understanding the Role of Advanced Pre-Trained Architectures (**arXiv 2024**) [[paper](https://arxiv.org/abs/2409.13527)]
+Federated Adversarial Domain Hallucination for Privacy-Preserving Domain Generalization (**IEEE TMM 2023**) [[paper](https://doi.org/10.1109/tmm.2023.3257566)]
 
-Reducing Spurious Correlation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.19174)]
+Federated Analytics With Data Augmentation in Domain Generalization Toward Future Networks (**IEEE TMLCN 2024**) [[paper](https://doi.org/10.1109/TMLCN.2024.3393892)]
 
-Feature Diversification and Adaptation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.08245)]
+Federated Domain Generalization via Prompt Learning and Aggregation (**arXiv 2024**) [[paper](https://arxiv.org/pdf/2411.10063)] [[code](https://github.com/GongShuai8210/PLAN)]
+
+Federated learning via reweighting information bottleneck with domain generalization (**Information Sciences 2024**) [[paper](https://doi.org/10.1016/j.ins.2024.120825)]
 
 Federated Unsupervised Domain Generalization using Global and Local Alignment of Gradients (**arXiv 2024**) [[paper](https://arxiv.org/abs/2405.16304)] [[code](https://github.com/mahdiyarmm/fedgala)]
 
-Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.html)] [[code](https://github.com/lhkhiem28/gPerXAN)]
+FISC: Federated Domain Generalization via Interpolative Style Transfer and Contrastive Learning (**arXiv 2024**) [[paper](https://arxiv.org/abs/2410.22622)]
 
-DiPrompT: Disentangled Prompt Tuning for Multiple Latent Domain Generalization in Federated Learning (**CVPR 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Bai_DiPrompT_Disentangled_Prompt_Tuning_for_Multiple_Latent_Domain_Generalization_in_CVPR_2024_paper.html)]
+Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis (**IEEE TSMCS 2024**) [[paper](https://doi.org/10.1109/TSMC.2024.3408058)]
 
 Hypernetwork-Driven Model Fusion for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2402.06974)]
 
 Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization (**AIII 2024**) [[paper](https://doi.org/10.1609/aaai.v38i14.29510)]
 
-Bilateral Proxy Federated Domain Generalization for Privacy-preserving Medical Image Diagnosis (**IEEE J-BHI 2024**) [[paper](https://doi.org/10.1109/JBHI.2024.3456440)]
-
-Federated Adversarial Domain Hallucination for Privacy-Preserving Domain Generalization (**IEEE TMM 2023**) [[paper](https://doi.org/10.1109/tmm.2023.3257566)]
-
-Federated Analytics With Data Augmentation in Domain Generalization Toward Future Networks (**IEEE TMLCN 2024**) [[paper](https://doi.org/10.1109/TMLCN.2024.3393892)]
-
-Federated learning via reweighting information bottleneck with domain generalization (**Information Sciences 2024**) [[paper](https://doi.org/10.1016/j.ins.2024.120825)]
-
-Heterogeneous Federated Domain Generalization Network With Common Representation Learning for Cross-Load Machinery Fault Diagnosis (**IEEE TSMCS 2024**) [[paper](https://doi.org/10.1109/TSMC.2024.3408058)]
-
 Non-linear Fusion in Federated Learning: A Hypernetwork Approach to Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2402.06974)]
+
+Reducing Spurious Correlation for Federated Domain Generalization (**arXiv 2024**) [[paper](https://arxiv.org/abs/2407.19174)]
+
+RFDG: Reinforcement Federated Domain Generalization (**TKED 2024**) [[paper](https://doi.org/10.1109/TKDE.2023.3301036)]
 
 ### 2023
 
-Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html)] [[code](https://github.com/JeremyCJM/CCST)]
-
-Federated Domain Generalization With Generalization Adjustment (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.html)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
-
-Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/FLdomain)]
-
-StableFDG: Style and Attention Based Learning for Federated Domain Generalization (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dae8bdacd265399b193e6b43d44a80f0-Abstract-Conference.html)]
-
-Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models (**Sci Rep/arXiv 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)][[code](https://github.com/tayebiarasteh/fldomain)]
-
 Benchmarking Algorithms for Federated Domain Generalization (**arXiv/ICLR Submission 2023**) [[paper](https://arxiv.org/abs/2307.05238)] [[code](https://github.com/inouye-lab/feddg_benchmark)]
-
-MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2306.16747)]
 
 Collaborative Semantic Aggregation and Calibration for Federated Domain Generalization (**IEEE TKDE 2023**) [[paper](https://doi.org/10.1109/TKDE.2023.3273882)]
 
 Domain Generalization for Foreground Segmentation Using Federated Learning (**ISVC 2023**) [[paper](https://doi.org/10.1007/978-3-031-47969-4_20)]
 
+Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/FLdomain)]
+
 Federated Condition Generalization on Low-dose CT Reconstruction via Cross-domain Learning (**MICCAI 2023**) [[paper](https://doi.org/10.1007/978-3-031-43898-1_5)]
+
+Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html)] [[code](https://github.com/JeremyCJM/CCST)]
+
+Federated Domain Generalization With Generalization Adjustment (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.html)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
 
 Federated Learning for IoT Devices With Domain Generalization (**IEEE Internet of Things Journal 2023**) [[paper](https://doi.org/10.1109/JIOT.2022.3173489)]
 
+Mind the Gap: Federated Learning Broadens Domain Generalization in Diagnostic AI Models (**Sci Rep/arXiv 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/fldomain)]
+
+MLA-BIN: Model-level Attention and Batch-instance Style Normalization for Domain Generalization of Federated Learning on Medical Image Segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2306.16747)]
+
+StableFDG: Style and Attention Based Learning for Federated Domain Generalization (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dae8bdacd265399b193e6b43d44a80f0-Abstract-Conference.html)]
+
 ### 2022
 
-FedSR: A Simple and Effective Domain GeneralizationMethod for Federated Learning (**NeurIPS 2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fd946a6c99541fddc3d64a3ea39a1bc2-Abstract-Conference.html)] [[code](https://github.com/atuannguyen/FedSR)]
+Feature Distribution Matching for Federated Domain Generalization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
+
+FedSR: A Simple and Effective Domain Generalization Method for Federated Learning (**NeurIPS 2022**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/fd946a6c99541fddc3d64a3ea39a1bc2-Abstract-Conference.html)] [[code](https://github.com/atuannguyen/FedSR)]
 
 FL Games: A federated learning framework for distribution shifts (**FL-NeurIPS 2022**) [[paper](https://arxiv.org/pdf/2205.11101)] 
-
-Feature Distribution Matching for Federated Domain Generalization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
 
 Generalized Federated Learning via Sharpness Aware Minimization (**PMLR 2022**) [[paper](https://proceedings.mlr.press/v162/qu22a.html)] [[code](https://github.com/NAVER-INTEL-Co-Lab/gaudi-byzantine)]
 
@@ -140,8 +141,8 @@ Improving Generalization in Federated Learning by Seeking Flat Minima (**ECCV 20
 
 ### 2021
 
-FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)] [[code](https://github.com/liuquande/FedDG-ELCFS)]
-
 Collaborative optimization and aggregation for decentralized domain generalization and adaptation (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Collaborative_Optimization_and_Aggregation_for_Decentralized_Domain_Generalization_and_Adaptation_ICCV_2021_paper.html)]
+
+FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)] [[code](https://github.com/liuquande/FedDG-ELCFS)]
 
 Federated learning with domain generalization (**arXiv 2021**) [[paper](https://arxiv.org/pdf/2111.10487)] [[code](https://github.com/Haoxiang-Wang/FedADG)]
