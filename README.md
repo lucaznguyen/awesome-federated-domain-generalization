@@ -60,6 +60,8 @@ A unified Personalized Federated Learning framework ensuring Domain Generalizati
 
 ### 2024
 
+RFDG: Reinforcement Federated Domain Generalization (**TKED 2024**) [[paper](https://doi.org/10.1109/TKDE.2023.3301036)]
+
 Decentralized federated domain generalization with cluster alignment for fault diagnosis (**Control Engineering Practice 2024**) [[paper](https://doi.org/10.1016/j.conengprac.2024.105951)]
 
 A unified Personalized Federated Learning framework for improving performance on Non-IID data via domain generalization (**ESWA 2024**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
@@ -102,7 +104,11 @@ Non-linear Fusion in Federated Learning: A Hypernetwork Approach to Federated Do
 
 ### 2023
 
-Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)]
+Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html)] [[code](https://github.com/JeremyCJM/CCST)]
+
+Federated Domain Generalization With Generalization Adjustment (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Federated_Domain_Generalization_With_Generalization_Adjustment_CVPR_2023_paper.html)] [[code](https://github.com/MediaBrain-SJTU/FedDG-GA)]
+
+Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/FLdomain)]
 
 StableFDG: Style and Attention Based Learning for Federated Domain Generalization (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dae8bdacd265399b193e6b43d44a80f0-Abstract-Conference.html)]
 
@@ -126,7 +132,7 @@ FedSR: A Simple and Effective Domain GeneralizationMethod for Federated Learning
 
 FL Games: A federated learning framework for distribution shifts (**FL-NeurIPS 2022**) [[paper](https://arxiv.org/pdf/2205.11101)] 
 
-Feature Distribution Matching for Federated DomainGeneralization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
+Feature Distribution Matching for Federated Domain Generalization (**ACML 2022**) [[paper](https://proceedings.mlr.press/v189/sun23a/sun23a.pdf)] [[code](https://github.com/yuweisunn/federated-knowledge-alignment)]
 
 Generalized Federated Learning via Sharpness Aware Minimization (**PMLR 2022**) [[paper](https://proceedings.mlr.press/v162/qu22a.html)] [[code](https://github.com/NAVER-INTEL-Co-Lab/gaudi-byzantine)]
 
