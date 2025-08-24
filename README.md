@@ -36,10 +36,6 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ## Papers
 
 ### 2025
-Got it 👍 — I’ll reformat all the **2025 Federated Domain Generalization papers** into the style you gave me:
-
----
-
 - Federated Domain Generalization with Data-free On-server Matching Gradient (FedOMG) (**ICLR 2025**) [[paper](https://openreview.net/pdf?id=8TERgu1Lb2)]
 - Enhancing Foundation Models with Federated Domain Knowledge Infusion (FedAG) (**ICML 2025**) [[paper](https://icml.cc/virtual/2025/poster/46374)]
 - TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization (**AAAI 2025**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34053)]
