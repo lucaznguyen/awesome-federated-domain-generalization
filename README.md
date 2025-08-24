@@ -36,6 +36,21 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ## Papers
 
 ### 2025
+Got it 👍 — I’ll reformat all the **2025 Federated Domain Generalization papers** into the style you gave me:
+
+---
+
+- Federated Domain Generalization with Data-free On-server Matching Gradient (FedOMG) (**ICLR 2025**) [[paper](https://openreview.net/pdf?id=8TERgu1Lb2)]
+- Enhancing Foundation Models with Federated Domain Knowledge Infusion (FedAG) (**ICML 2025**) [[paper](https://icml.cc/virtual/2025/poster/46374)]
+- TTA-FedDG: Leveraging Test-Time Adaptation to Address Federated Domain Generalization (**AAAI 2025**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34053)]
+- Federated Unsupervised Domain Generalization Using Global and Local Alignment of Gradients (FedGaLA) (**AAAI 2025**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34197)]
+- Improving Federated Domain Generalization Through Dynamical Weights Calculated from Data Influences on Global Model Update (DI) (**AAAI 2025**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34468)]
+- FedGOG: Federated Graph Out-of-Distribution Generalization (**AAAI 2025**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34459/36614)]
+- Multi-Source Collaborative Style Augmentation and Domain-Invariant Learning for Federated Domain Generalization (MCSAD) (**IJCAI 2025**) [[paper](https://arxiv.org/abs/2505.10152)]
+- Federated Learning with Domain Shift Eraser (FDSE) (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Federated_Learning_with_Domain_Shift_Eraser_CVPR_2025_paper.html)]
+- BTFL: A Bayesian-based Test-Time Generalization Method for Internal and External Data Distributions in Federated Learning (**KDD 2025**) [[paper](https://dl.acm.org/doi/10.1145/3690624.3709309)]
+- Vision enhancement and consistency assurance for multicenter fundus image segmentation (FedDG-VECA) (**Pattern Recognition 2025**) [[paper](https://doi.org/10.1016/j.patcog.2025.111324)]
+- A Causal Unbiased Optimization Method for Federated Domain Generalization (**Knowledge-Based Systems 2025**) [[paper](https://doi.org/10.1016/j.knosys.2025.112220)]
 - A unified Personalized Federated Learning framework ensuring Domain Generalization (**Expert Systems with Applications 2025**) [[paper](https://doi.org/10.1016/j.eswa.2024.125700)]
 - FedTG: Text-guided Federated Domain Generalization (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888120)]
 - Federated Domain Generalization with Label Smoothing and Balanced Decentralized Training (**ICASSP 2025**) [[paper](https://doi.org/10.1109/ICASSP49660.2025.10888230)] [[code](https://github.com/AhmedMostafaSoliman/FedPartWhole)]
