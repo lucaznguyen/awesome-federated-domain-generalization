@@ -1,6 +1,11 @@
 # Awesome Federated Domain Generalization (FedDG)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-black.svg)
+![Stars](https://img.shields.io/github/stars/lucaznguyen/awesome-federated-domain-generalization?style=social)
 
-This repository is a collection of awesome things about federated domain generalization, including papers, code, etc.
+A curated list of **Federated Domain Generalization (FedDG)** papers, code, datasets, and resources.  
+**Format rule:** `Title (**Venue Year**) [[paper](link)] [[code](link)]`
 
 ## What is Federated Domain Generalization?
 
@@ -80,3 +85,13 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 ### 2021
 - Collaborative optimization and aggregation for decentralized domain generalization and adaptation (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Wu_Collaborative_Optimization_and_Aggregation_for_Decentralized_Domain_Generalization_and_Adaptation_ICCV_2021_paper.html)]
 - FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_FedDG_Federated_Domain_Generalization_on_Medical_Image_Segmentation_via_Episodic_CVPR_2021_paper.html)] [[code](https://github.com/liuquande/FedDG-ELCFS)]
+
+---
+
+## Contributing (Pull Requests)
+
+We welcome contributions! Please follow these rules:
+
+1. **Eligibility**: Only A* conferences (main track) or Q1 journals.  
+2. **Format** (must match exactly): `Title (**Venue Year**) [[paper](link)] [[code](link)]`
+3. **Sorting**: Year → A*/Q1 → Venue → Title.  
