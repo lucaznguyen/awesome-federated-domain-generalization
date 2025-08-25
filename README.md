@@ -72,7 +72,7 @@ Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchm
 - Domain Generalization for Foreground Segmentation Using Federated Learning (**ISVC 2023**) [[paper](https://doi.org/10.1007/978-3-031-47969-4_20)]
 - Federated Condition Generalization on Low-dose CT Reconstruction via Cross-domain Learning (**MICCAI 2023**) [[paper](https://doi.org/10.1007/978-3-031-43898-1_5)]
 - StableFDG: Style and Attention Based Learning for Federated Domain Generalization (**NeurIPS**) [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dae8bdacd265399b193e6b43d44a80f0-Abstract-Conference.html)]
-- Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Sci Rep 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/fldomain)]
+
 - Enhancing domain generalization in the AI-based analysis of chest radiographs with federated learning (**Scientific Reports 2023**) [[paper](https://doi.org/10.1038/s41598-023-49956-8)] [[code](https://github.com/tayebiarasteh/FLdomain)]
 - Federated Domain Generalization for Image Recognition via Cross-Client Style Transfer (**WACV 2023**) [[paper](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Federated_Domain_Generalization_for_Image_Recognition_via_Cross-Client_Style_Transfer_WACV_2023_paper.html)] [[code](https://github.com/JeremyCJM/CCST)]
 ### 2022
